@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fan: one
+  squad: one
+  last_viewed: 2023-02-11 19:27:36
+
+two:
+  fan: two
+  squad: two
+  last_viewed: 2023-02-11 19:27:36

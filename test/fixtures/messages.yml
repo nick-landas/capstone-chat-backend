@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fan: one
+  squad: one
+  content: MyText
+
+two:
+  fan: two
+  squad: two
+  content: MyText
